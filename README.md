@@ -33,8 +33,6 @@ The project uses a Magist e-commerce dataset to analyze tech-product sales, pric
 | File or folder | Description |
 |---|---|
 | `Business_questions_for_Magist.sql` | SQL queries for the business questions and data checks |
-| `Business_questions_for_Magist.docx` | Original business-question document |
-| `analyze_magist.py` | Python script for independently calculating key metrics |
 | `magist_export/magist_export/` | Magist CSV tables |
 | `Eniac_info.pdf` | Eniac company background for the sample case |
 
